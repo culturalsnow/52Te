@@ -1,5 +1,7 @@
 # 52Te
 
+![52Te Left Hand with SA Pulse](https://raw.githubusercontent.com/culturalsnow/52Te/master/52Te_Left.jpg)
+
 52Te is a split keyboard inspired by the NISSE keyboard created by Esrille.
 
 https://www.esrille.com/keyboard/
