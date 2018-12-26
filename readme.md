@@ -5,6 +5,7 @@
 https://www.esrille.com/keyboard/
 
 The firmware is heavily based on Lily58 due to wiring and layout similarities.
+https://github.com/kata0510/Lily58
 
 Right now this is hand-wired with ProMicroSocket and BitBoard by swanmatch
 https://github.com/swanmatch/MxLEDBitPCB
