@@ -73,4 +73,4 @@ SLEEP_LED_ENABLE = no    # Breathing sleep LED during USB suspend
 
 CUSTOM_MATRIX = yes
 
-DEFAULT_FOLDER = lily58/rev1
+DEFAULT_FOLDER = 52Te/rev1
