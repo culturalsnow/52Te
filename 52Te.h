@@ -1,5 +1,5 @@
-#ifndef 52TE_H
-#define 52TE_H
+#ifndef _52TE_H
+#define _52TE_H
 
 #include "quantum.h"
 
