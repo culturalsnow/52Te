@@ -85,14 +85,8 @@ Wire Wire Line
 	9000 3100 9250 3100
 Wire Wire Line
 	9250 3100 9350 3000
-Text GLabel 9550 3150 2    50   Input ~ 0
+Text GLabel 9500 3200 2    50   Input ~ 0
 data
-Wire Wire Line
-	9000 3150 9550 3150
-Wire Wire Line
-	9000 3200 9150 3200
-Wire Wire Line
-	9150 3200 9150 3350
 Wire Wire Line
 	7750 1650 7450 1650
 Wire Wire Line
@@ -1024,4 +1018,10 @@ Text GLabel 7250 2000 0    50   Input ~ 0
 SDA
 Text GLabel 7250 2100 0    50   Input ~ 0
 SCL
+Wire Wire Line
+	9000 3150 9150 3150
+Wire Wire Line
+	9150 3150 9150 3350
+Wire Wire Line
+	9000 3200 9500 3200
 $EndSCHEMATC
