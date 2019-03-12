@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name emptystring)(type KiCad)(uri "C:/Users/bernardshih/Keyboard PCBs/Libraries/emptystring.pretty")(options "")(descr ""))
+)
