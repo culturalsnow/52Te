@@ -1,6 +1,6 @@
 EESchema Schematic File Version 4
 LIBS:52Te_Rev-cache
-EELAYER 26 0
+EELAYER 29 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
@@ -946,29 +946,11 @@ Wire Wire Line
 	5650 1750 6550 1750
 NoConn ~ 7750 2050
 Wire Wire Line
-	7750 1850 7600 1850
-Wire Wire Line
-	7600 1850 7600 2000
-Wire Wire Line
-	7250 2000 7600 2000
-Wire Wire Line
-	7750 1950 7650 1950
-Wire Wire Line
-	7650 1950 7650 2050
-Wire Wire Line
-	7650 2050 7450 2050
-Wire Wire Line
-	7450 2050 7450 2100
-Wire Wire Line
-	7450 2100 7250 2100
-Text GLabel 7250 2000 0    50   Input ~ 0
-SDA
-Text GLabel 7250 2100 0    50   Input ~ 0
-SCL
-Wire Wire Line
 	9000 3150 9150 3150
 Wire Wire Line
 	9150 3150 9150 3350
 Wire Wire Line
 	9000 3200 9500 3200
+NoConn ~ 7750 1850
+NoConn ~ 7750 1950
 $EndSCHEMATC

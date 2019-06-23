@@ -944,59 +944,6 @@ Wire Wire Line
 Connection ~ 5650 1750
 Wire Wire Line
 	5650 1750 6550 1750
-$Comp
-L Connector_Generic:Conn_01x04 J2
-U 1 1 5C51C912
-P 9150 4150
-F 0 "J2" H 9230 4142 50  0000 L CNN
-F 1 "Conn_01x04" H 9230 4051 50  0000 L CNN
-F 2 "kbd:OLED" H 9150 4150 50  0001 C CNN
-F 3 "~" H 9150 4150 50  0001 C CNN
-	1    9150 4150
-	1    0    0    -1  
-$EndComp
-$Comp
-L Atreus62-cache:GND #PWR09
-U 1 1 5C51CC2A
-P 8600 4050
-F 0 "#PWR09" H 8600 3800 50  0001 C CNN
-F 1 "GND" V 8605 3922 50  0000 R CNN
-F 2 "" H 8600 4050 50  0000 C CNN
-F 3 "" H 8600 4050 50  0000 C CNN
-	1    8600 4050
-	0    1    1    0   
-$EndComp
-$Comp
-L Atreus62-cache:VCC #PWR010
-U 1 1 5C51CD02
-P 8600 4150
-F 0 "#PWR010" H 8600 4000 50  0001 C CNN
-F 1 "VCC" V 8618 4277 50  0000 L CNN
-F 2 "" H 8600 4150 50  0000 C CNN
-F 3 "" H 8600 4150 50  0000 C CNN
-	1    8600 4150
-	0    -1   -1   0   
-$EndComp
-Wire Wire Line
-	8950 4050 8600 4050
-Wire Wire Line
-	8950 4150 8600 4150
-Wire Wire Line
-	8950 4250 8650 4250
-Wire Wire Line
-	8650 4250 8650 4350
-Wire Wire Line
-	8450 4350 8650 4350
-Text GLabel 8450 4350 0    50   Input ~ 0
-SCL
-Wire Wire Line
-	8950 4350 8700 4350
-Wire Wire Line
-	8700 4350 8700 4500
-Wire Wire Line
-	8700 4500 8450 4500
-Text GLabel 8450 4500 0    50   Input ~ 0
-SDA
 NoConn ~ 7750 2050
 Wire Wire Line
 	7750 1850 7600 1850
